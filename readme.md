@@ -19,7 +19,7 @@ This tool is designed to scrape images from Byrdie article pages, automatically 
 
 * Clone the repository
 ```bash
-git clone https://github.com/yourusername/byrdie-scraper.git
+git clone git@github.com:UtshoDeyTech/Website-Image-Scraper.git
 ```
 
 * Create a virtual environment
